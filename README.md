@@ -22,7 +22,7 @@ Use publicly available salary and performance data to identify NHL players who a
 ## Tools
 - Python (Pandas, Seaborn, Scikit-Learn)
 - Jupyter/Colab
-- Tableau (optional)
+- Tableau 
 - GitHub for version control
 
 ## Future Plans
