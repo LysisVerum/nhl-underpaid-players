@@ -33,13 +33,20 @@ Teams constantly seek low-cost, high-impact players to build depth and stay unde
 - Several players outperform their salary based on both production and play-driving
 - Ideal trade/FA targets are often middle-six forwards under $4M
 
+## Correlation of xGF% and Win%
 ![xGF% vs Win% Correlation](visuals/xgf_vs_win_correlation.png)
 
+## Best Value Forwards based on points/per million dollars
 ![Best Value Forwards: Points Efficiency](visuals/points_per_million_plot.png)
 
+## Best Value Forwards for xgf per million
 ![Best Value Forwards: Play Driving Efficiency](visuals/xgf_per_million_plot.png)
 
-📂 Data used: [`data/top_15_value_targets.csv`](data/top_15_value_targets.csv)
+## Top 15 Underpaid Forwards (Combined Value Score)
+![Value Score Bar Plot](visuals/value_score_bar_plot.png)
+
+
+📂 Top 15 Based on Value Metric Data: [`data/top_15_value_targets.csv`](data/top_15_value_targets.csv)
 
 This plot is based on players filtered by cap hit (≤ $4M), TOI/GP (≥ 8), and GP (≥ 30).  
 📄 Source data: [`data/final_value_targets.csv`](data/final_value_targets.csv)
@@ -50,8 +57,11 @@ This plot is based on players filtered by cap hit (≤ $4M), TOI/GP (≥ 8), and
 - Introduce contract length, age curves, or playoff performance
 
 
-▶️ [Full Analysis Notebook]([notebooks/nhl_value_forwards.ipynb](https://colab.research.google.com/drive/1P8zoh9stT0dEG0RTCa-hbO7f9pFra-Ei?usp=sharing))
+
 
 ## Data Sources
 - Thank you to Natural Stat Trick for the in game analytic stats
 - Thank you to PuckPedia for the Salary Stats
+
+
+🧠 Full analysis notebook: [`notebooks/nhl_value_forwards.ipynb`](notebooks/nhl_value_forwards.ipynb)
