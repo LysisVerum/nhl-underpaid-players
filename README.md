@@ -1,5 +1,12 @@
 # NHL Value Forwards: Identifying Underpaid Players for Trade and Free Agency Targets
 
+![xGF% vs Win% Correlation](visuals/xgf_vs_win_correlation.png)
+
+![Best Value Forwards: Points Efficiency](visuals/points_per_million_plot.png)
+
+![Best Value Forwards: Play Driving Efficiency](visuals/xgf_per_million_plot.png)
+
+
 
 ## Objective
 Use NHL salary and performance data to identify **forwards who significantly outperform their contracts**, making them high-value targets for trades or free agency.
@@ -38,4 +45,7 @@ Teams constantly seek low-cost, high-impact players to build depth and stay unde
 - Add clustering by player archetype
 - Visualize team-level value capture
 - Introduce contract length, age curves, or playoff performance
+
+
+▶️ [Full Analysis Notebook](notebooks/nhl_value_forwards.ipynb)
 
