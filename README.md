@@ -74,5 +74,5 @@ Source data: [`data/final_value_targets.csv`](data/final_value_targets.csv)
 - Thank you to PuckPedia for the Salary Stats
 
 
-Full analysis notebook: [`notebooks/nhl_value_forwards.ipynb`](notebooks/NHL_Undervalued_Players_(1).ipynb)
+Full analysis notebook: [`notebooks/nhl_value_forwards.ipynb`](notebooks/NHL_Undervalued_PlayersF.ipynb)
 
