@@ -39,6 +39,11 @@ Teams constantly seek low-cost, high-impact players to build depth and stay unde
 
 ![Best Value Forwards: Play Driving Efficiency](visuals/xgf_per_million_plot.png)
 
+📂 Data used: [`data/top_15_value_targets.csv`](data/top_15_value_targets.csv)
+
+This plot is based on players filtered by cap hit (≤ $4M), TOI/GP (≥ 8), and GP (≥ 30).  
+📄 Source data: [`data/final_value_targets.csv`](data/final_value_targets.csv)
+
 ## Future Work
 - Add clustering by player archetype
 - Visualize team-level value capture
@@ -47,4 +52,6 @@ Teams constantly seek low-cost, high-impact players to build depth and stay unde
 
 ▶️ [Full Analysis Notebook]([notebooks/nhl_value_forwards.ipynb](https://colab.research.google.com/drive/1P8zoh9stT0dEG0RTCa-hbO7f9pFra-Ei?usp=sharing))
 
-
+## Data Sources
+- Thank you to Natural Stat Trick for the in game analytic stats
+- Thank you to PuckPedia for the Salary Stats
