@@ -1,4 +1,5 @@
 # NHL Value Forwards: Identifying Underpaid Players for Trade and Free Agency Targets
+![xGF vs Win Correlation](../visuals/xgf_vs_win_correlation.png)
 
 ## Objective
 Use NHL salary and performance data to identify **forwards who significantly outperform their contracts**, making them high-value targets for trades or free agency.
