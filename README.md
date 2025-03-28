@@ -45,5 +45,6 @@ Teams constantly seek low-cost, high-impact players to build depth and stay unde
 - Introduce contract length, age curves, or playoff performance
 
 
-▶️ [Full Analysis Notebook](notebooks/nhl_value_forwards.ipynb)
+▶️ [Full Analysis Notebook]([notebooks/nhl_value_forwards.ipynb](https://colab.research.google.com/drive/1P8zoh9stT0dEG0RTCa-hbO7f9pFra-Ei?usp=sharing))
+
 
